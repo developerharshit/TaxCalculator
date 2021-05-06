@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/TaxCalculator/static/css/main.602bf99c.chunk.css",
+    "main.js": "/TaxCalculator/static/js/main.e1a302f2.chunk.js",
+    "main.js.map": "/TaxCalculator/static/js/main.e1a302f2.chunk.js.map",
+    "runtime-main.js": "/TaxCalculator/static/js/runtime-main.cd0deaca.js",
+    "runtime-main.js.map": "/TaxCalculator/static/js/runtime-main.cd0deaca.js.map",
+    "static/js/2.a6d3cd57.chunk.js": "/TaxCalculator/static/js/2.a6d3cd57.chunk.js",
+    "static/js/2.a6d3cd57.chunk.js.map": "/TaxCalculator/static/js/2.a6d3cd57.chunk.js.map",
+    "index.html": "/TaxCalculator/index.html",
+    "static/css/main.602bf99c.chunk.css.map": "/TaxCalculator/static/css/main.602bf99c.chunk.css.map",
+    "static/js/2.a6d3cd57.chunk.js.LICENSE.txt": "/TaxCalculator/static/js/2.a6d3cd57.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cd0deaca.js",
+    "static/js/2.a6d3cd57.chunk.js",
+    "static/css/main.602bf99c.chunk.css",
+    "static/js/main.e1a302f2.chunk.js"
+  ]
+}

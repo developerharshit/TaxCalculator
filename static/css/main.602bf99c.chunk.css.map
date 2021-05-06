@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/panel/panel.css"],"names":[],"mappings":"AAAA,cACC,UAAW,CACX,iBACD","file":"main.602bf99c.chunk.css","sourcesContent":[".panel-switch {\n\twidth: 100%;\n\ttext-align: center;\n}\n"]}
